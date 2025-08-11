@@ -1,0 +1,86 @@
+{
+  "city": "Leipzig",
+  "cityAGS": 14713,
+  "map": {
+    "maxBounds": [
+      { "lng": -11.22772120373213, "lat": 41.86194994247012 },
+      { "lng": 32.10471472187302, "lat": 59.395561144137304 }
+    ],
+    "zoom": 7.2,
+    "center": [12.374733, 51.340632]
+  },
+  "kreise": [
+    {
+      "ags": 14730,
+      "label": "Nordsachsen",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 61.55416766754744,
+          "buttonCategory": -1,
+          "score": -0.4179584863
+        }
+      ]
+    },
+    {
+      "ags": 15002,
+      "label": "Halle (Saale)",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 63.16218358410723,
+          "buttonCategory": 0,
+          "score": -0.2746991263
+        }
+      ]
+    },
+    {
+      "ags": 15088,
+      "label": "Saalekreis",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 59.15714634609644,
+          "buttonCategory": -1,
+          "score": -0.4179584863
+        }
+      ]
+    },
+    {
+      "ags": 14713,
+      "label": "Leipzig",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 64.43832343493595,
+          "buttonCategory": -1,
+          "score": -0.1610068572
+        }
+      ]
+    },
+    {
+      "ags": 14729,
+      "label": "LK Leipzig",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 70.2686720756905,
+          "buttonCategory": 1,
+          "score": 0.3584233338
+        }
+      ]
+    },
+    {
+      "ags": 15084,
+      "label": "Burgenlandkreis",
+      "data": [
+        {
+          "id": "kinder",
+          "displayValue": 60.39260839626582,
+          "buttonCategory": -1,
+          "score": -0.5214426845
+        }
+      ]
+    }
+  ]
+}

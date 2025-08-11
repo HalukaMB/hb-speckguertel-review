@@ -1,0 +1,383 @@
+{
+    "city": "Leipzig",
+    "cityAGS": 14713,
+    "map": {
+        "maxBounds": [
+            {
+                "lng": -11.22772120373213,
+                "lat": 41.86194994247012
+            },
+            {
+                "lng": 32.10471472187302,
+                "lat": 59.395561144137304
+            }
+        ],
+        "zoom": 7.2,
+        "center": [
+            12.374733,
+            51.340632
+        ]
+    },
+    "means": {
+        "preis": 3754.9058823529413,
+        "angebot": 1282.070588235294,
+        "preis_entwicklung": 0.023721094311662704,
+        "angebot_entwicklung": -0.2540378268218437,
+        "autobahn": 6720.705882352941,
+        "zug": 3188.823529411765,
+        "supermarkt": 1656.8235294117646,
+        "pendler": 20.508022998451217,
+        "schule": 66.24554628693002,
+        "einwohner": 5.452741770605203
+    },
+    "variances": {
+        "preis": 1835420.555847751,
+        "angebot": 2607169.8303114185,
+        "preis_entwicklung": 0.0010245840235656096,
+        "angebot_entwicklung": 0.004726210981316244,
+        "autobahn": 21638611.266435985,
+        "zug": 1618495.0865051898,
+        "supermarkt": 826179.3217993078,
+        "pendler": 174.2759115002608,
+        "schule": 125.98959306813865,
+        "einwohner": 14.540047075256794
+    },
+    "kreise": [
+        {
+            "ags": 15084,
+            "label": "Burgenlandkreis",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 1207,
+                    "score": -1.8806829434673016
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 353.0,
+                    "score": -0.575392306633517
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.0098441345365053,
+                    "score": -1.0486144131103257
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.386086956521739,
+                    "score": -1.9207860404332369
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 13390.0,
+                    "score": 1.4337227542166937
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3870.0,
+                    "score": 0.5354315342276715
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 3450.0,
+                    "score": 1.972812772987535
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 1.5010337307768558,
+                    "score": -1.4397750655641837
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 60.39260839626582,
+                    "score": -0.5214426844767495
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": -5.838317721852315,
+                    "score": -2.961091239325776
+                }
+            ]
+        },
+        {
+            "ags": 15002,
+            "label": "Halle/Saale",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2344,
+                    "score": -1.0414303943316916
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 339.0,
+                    "score": -0.5840627913037616
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.001281503630927,
+                    "score": -0.7010373240282525
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.306748466257669,
+                    "score": -0.7667287216564149
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 7500.0,
+                    "score": 0.16752773066964272
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 1880.0,
+                    "score": -1.0287868425358977
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 810.0,
+                    "score": -0.9316563666162102
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 3.486464315012306,
+                    "score": -1.2893791554421965
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 63.16218358410723,
+                    "score": -0.2746991263208067
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": -1.6423263048738312,
+                    "score": -1.8606884442292744
+                }
+            ]
+        },
+        {
+            "ags": 14713,
+            "label": "Leipzig",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3114,
+                    "score": -0.4730711482152273
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 2546.0,
+                    "score": 0.7827771849269387
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.0418200066912011,
+                    "score": 0.5654297924991127
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.314301104228387,
+                    "score": -0.8765893592507011
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 7180.0,
+                    "score": 0.0987361504429778
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 1440.0,
+                    "score": -1.3746441720715612
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 640.0,
+                    "score": -1.118686576363421
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 4.1931577353920675,
+                    "score": -1.235847291382511
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 64.43832343493595,
+                    "score": -0.1610068572391042
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 16.73745003244771,
+                    "score": 2.9594256229728013
+                }
+            ]
+        },
+        {
+            "ags": 14729,
+            "label": "Leipzig",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2026,
+                    "score": -1.2761553816888807
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 801.0,
+                    "score": -0.29793679718569027
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.0347784659361601,
+                    "score": -1.8275901622470538
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.299212598425197,
+                    "score": -0.6571120224168319
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 7840.0,
+                    "score": 0.24061878466047418
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3060.0,
+                    "score": -0.10126036787207274
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 3160.0,
+                    "score": 1.6537612387128813
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 2.032328197372152,
+                    "score": -1.3995296319132535
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 70.2686720756905,
+                    "score": 0.35842333379704466
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 0.5783022835031515,
+                    "score": -1.2783264556814413
+                }
+            ]
+        },
+        {
+            "ags": 14730,
+            "label": "Nordsachsen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 1687,
+                    "score": -1.526381075758337
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 459.0,
+                    "score": -0.5097443512730937
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.0029550827423168,
+                    "score": -0.8333929100266696
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.27373417721519,
+                    "score": -0.2865030232989958
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 19630.0,
+                    "score": 2.7751585686366593
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 4800.0,
+                    "score": 1.2664481625644148
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 2840.0,
+                    "score": 1.3017043733063667
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 1.7805368077862391,
+                    "score": -1.418602771764293
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 61.55416766754744,
+                    "score": -0.4179584862996166
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 1.0819165378670892,
+                    "score": -1.1462531318633533
+                }
+            ]
+        },
+        {
+            "ags": 15088,
+            "label": "Saalekreis",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 1536,
+                    "score": -1.6378385383084488
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 495.0,
+                    "score": -0.4874488192638934
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.0274247491638795,
+                    "score": 0.11570622315100042
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -0.293865905848787,
+                    "score": -0.579339056501825
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 6290.0,
+                    "score": -0.09259043206243396
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3220.0,
+                    "score": 0.024505933777259455
+                },
+                {
+                    "id": "supermarkt",
+                    "displayValue": 3880.0,
+                    "score": 2.445889185877539
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 2.213300391187976,
+                    "score": -1.3858210298539253
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 59.15714634609644,
+                    "score": -0.6315109373856084
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": -3.456349059545394,
+                    "score": -2.3364176608172973
+                }
+            ]
+        }
+    ]
+}
