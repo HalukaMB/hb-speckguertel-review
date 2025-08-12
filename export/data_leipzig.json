@@ -31,13 +31,13 @@
         },
         {
             "id": "preis_entwicklung",
-            "means": 0.023721094311662704,
-            "sd": 0.03200912406745317
+            "means": 2.3721094311662707,
+            "sd": 3.2009124067453167
         },
         {
             "id": "angebot_entwicklung",
-            "means": -0.2540378268218437,
-            "sd": 0.06874744345294771
+            "means": -25.403782682184374,
+            "sd": 6.874744345294772
         },
         {
             "id": "autobahn",
@@ -93,13 +93,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": -0.0098441345365053,
-                    "score": -1.0486144131103257
+                    "displayValue": -0.9844134536505299,
+                    "score": -1.0486144131103259
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.386086956521739,
-                    "score": -1.9207860404332369
+                    "displayValue": -38.6086956521739,
+                    "score": -1.9207860404332362
                 },
                 {
                     "id": "autobahn",
@@ -159,13 +159,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": 0.001281503630927,
-                    "score": -0.7010373240282525
+                    "displayValue": 0.1281503630927,
+                    "score": -0.7010373240282526
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.306748466257669,
-                    "score": -0.7667287216564149
+                    "displayValue": -30.6748466257669,
+                    "score": -0.7667287216564146
                 },
                 {
                     "id": "autobahn",
@@ -225,13 +225,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": 0.0418200066912011,
-                    "score": 0.5654297924991127
+                    "displayValue": 4.18200066912011,
+                    "score": 0.5654297924991125
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.314301104228387,
-                    "score": -0.8765893592507011
+                    "displayValue": -31.4301104228387,
+                    "score": -0.8765893592507009
                 },
                 {
                     "id": "autobahn",
@@ -291,13 +291,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": -0.0347784659361601,
+                    "displayValue": -3.47784659361601,
                     "score": -1.8275901622470538
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.299212598425197,
-                    "score": -0.6571120224168319
+                    "displayValue": -29.9212598425197,
+                    "score": -0.6571120224168316
                 },
                 {
                     "id": "autobahn",
@@ -357,13 +357,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": -0.0029550827423168,
-                    "score": -0.8333929100266696
+                    "displayValue": -0.29550827423168,
+                    "score": -0.8333929100266697
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.27373417721519,
-                    "score": -0.2865030232989958
+                    "displayValue": -27.373417721519,
+                    "score": -0.28650302329899563
                 },
                 {
                     "id": "autobahn",
@@ -423,13 +423,13 @@
                 },
                 {
                     "id": "preis_entwicklung",
-                    "displayValue": 0.0274247491638795,
-                    "score": 0.11570622315100042
+                    "displayValue": 2.74247491638795,
+                    "score": 0.11570622315100039
                 },
                 {
                     "id": "angebot_entwicklung",
-                    "displayValue": -0.293865905848787,
-                    "score": -0.579339056501825
+                    "displayValue": -29.386590584878704,
+                    "score": -0.5793390565018249
                 },
                 {
                     "id": "autobahn",
