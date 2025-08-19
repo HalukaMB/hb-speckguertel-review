@@ -21,58 +21,58 @@
     "statistics": [
         {
             "id": "preis",
-            "means": 3754.9058823529413,
-            "sd": 1354.776939517259
+            "means": 1985.6666666666667,
+            "sd": 678.364110685896
         },
         {
             "id": "angebot",
-            "means": 1282.070588235294,
-            "sd": 1614.6732890313813
+            "means": 832.1666666666666,
+            "sd": 856.0309379144346
         },
         {
             "id": "preis_entwicklung",
-            "means": 2.3721094311662707,
-            "sd": 3.2009124067453167
+            "means": 0.38247627118375666,
+            "sd": 2.7313294970611355
         },
         {
             "id": "angebot_entwicklung",
-            "means": -25.403782682184374,
-            "sd": 6.874744345294772
+            "means": -31.23248680828281,
+            "sd": 3.867235131579707
         },
         {
             "id": "autobahn",
-            "means": 6720.705882352941,
-            "sd": 4651.732071652019
+            "means": 10305.0,
+            "sd": 5221.1674939614795
         },
         {
             "id": "zug",
-            "means": 3188.823529411765,
-            "sd": 1272.2008829210856
+            "means": 3045.0,
+            "sd": 1242.960176353209
         },
         {
             "id": "supermarkt",
-            "means": 1656.8235294117646,
-            "sd": 908.9440696760763
+            "means": 2463.3333333333335,
+            "sd": 1390.3764478250725
         },
         {
             "id": "pendler",
-            "means": 20.508022998451217,
-            "sd": 13.20136021401813
+            "means": 2.5344701962545995,
+            "sd": 1.06294310927668
         },
         {
             "id": "schule",
-            "means": 66.24554628693002,
-            "sd": 11.224508589160536
+            "means": 36.696145703332085,
+            "sd": 5.922939386309483
         },
         {
             "id": "einwohner",
-            "means": 5.452741770605203,
-            "sd": 3.8131413657582636
+            "means": 1.2434459612577353,
+            "sd": 8.013735729329808
         },
         {
             "id": "gesundheit",
-            "means": 59.93882352941176,
-            "sd": 4.327235066621561
+            "means": 65.18333333333334,
+            "sd": 4.295773116293117
         }
     ],
     "kreise": [
@@ -83,128 +83,118 @@
                 {
                     "id": "preis",
                     "displayValue": 1207,
-                    "score": -1.8806829434673016
+                    "score": -1.2574170460741523
                 },
                 {
                     "id": "angebot",
                     "displayValue": 353.0,
-                    "score": -0.575392306633517,
-                    "chartValue": 0.0010975227343994983
+                    "score": -0.6131796889895247
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": -0.9844134536505299,
-                    "score": -1.0486144131103259
+                    "score": -0.5482138546223232
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -38.6086956521739,
-                    "score": -1.9207860404332362
+                    "score": -2.08940798022691
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 13390.0,
-                    "score": 1.4337227542166937
+                    "score": 0.6472591012863238
                 },
                 {
                     "id": "zug",
                     "displayValue": 3870.0,
-                    "score": 0.5354315342276715
+                    "score": 0.7270886365282149
                 },
                 {
                     "id": "angebot",
                     "displayValue": 353.0,
-                    "score": -0.575392306633517,
-                    "chartValue": 0.0010975227343994983
+                    "score": -0.6131796889895247
                 },
                 {
                     "id": "pendler",
                     "displayValue": 1.5010337307768558,
-                    "score": -1.4397750655641837,
-                    "chartValue": 0.0
+                    "score": -1.0650362356189507
                 },
                 {
                     "id": "schule",
-                    "displayValue": 60.39260839626582,
-                    "score": -0.5214426844767495,
-                    "chartValue": 0.34366195330936467
+                    "displayValue": 42.331267567476,
+                    "score": 1.0422133869599959
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -5.838317721852315,
-                    "score": -2.961091239325776,
-                    "chartValue": 0.0
+                    "score": -0.9680483228225022
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 64.0,
-                    "score": 0.9385153355578979
+                    "score": -0.30175632751933434
                 }
             ]
         },
         {
             "ags": 15002,
-            "label": "Halle/Saale",
+            "label": "Halle (Saale)",
             "data": [
                 {
                     "id": "preis",
                     "displayValue": 2344,
-                    "score": -1.0414303943316916
+                    "score": 0.5786486834459389
                 },
                 {
                     "id": "angebot",
                     "displayValue": 339.0,
-                    "score": -0.5840627913037616,
-                    "chartValue": 0.0
+                    "score": -0.6310951999026099
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": 0.1281503630927,
-                    "score": -0.7010373240282526
+                    "score": -0.10200163471257633
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -30.6748466257669,
-                    "score": -0.7667287216564146
+                    "score": 0.15795890166652368
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 7500.0,
-                    "score": 0.16752773066964272
+                    "score": -0.5885127322878893
                 },
                 {
                     "id": "zug",
                     "displayValue": 1880.0,
-                    "score": -1.0287868425358977
+                    "score": -1.0267372867337823
                 },
                 {
                     "id": "angebot",
                     "displayValue": 339.0,
-                    "score": -0.5840627913037616,
-                    "chartValue": 0.0
+                    "score": -0.6310951999026099
                 },
                 {
                     "id": "pendler",
                     "displayValue": 3.486464315012306,
-                    "score": -1.2893791554421965,
-                    "chartValue": 0.04248092183225523
+                    "score": 0.9811035960535531
                 },
                 {
                     "id": "schule",
-                    "displayValue": 63.16218358410723,
-                    "score": -0.2746991263208067,
-                    "chartValue": 0.3863909594767183
+                    "displayValue": 31.7955833044282,
+                    "score": -0.9063569269493241
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -1.6423263048738312,
-                    "score": -1.8606884442292744,
-                    "chartValue": 0.18586262326246997
+                    "score": -0.3944733441104495
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 69.4,
-                    "score": 2.1864253558970503
+                    "score": 1.075272547357625
                 }
             ]
         },
@@ -215,128 +205,118 @@
                 {
                     "id": "preis",
                     "displayValue": 3114,
-                    "score": -0.4730711482152273
+                    "score": 1.8220705055483755
                 },
                 {
                     "id": "angebot",
                     "displayValue": 2546.0,
-                    "score": 0.7827771849269387,
-                    "chartValue": 0.17301661962997805
+                    "score": 2.1931571276101853
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": 4.18200066912011,
-                    "score": 0.5654297924991125
+                    "score": 1.52386244338531
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -31.4301104228387,
-                    "score": -0.8765893592507009
+                    "score": -0.05597948296655554
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 7180.0,
-                    "score": 0.0987361504429778
+                    "score": -0.6556514397146717
                 },
                 {
                     "id": "zug",
                     "displayValue": 1440.0,
-                    "score": -1.3746441720715612
+                    "score": -1.4145178928821633
                 },
                 {
                     "id": "angebot",
                     "displayValue": 2546.0,
-                    "score": 0.7827771849269387,
-                    "chartValue": 0.17301661962997805
+                    "score": 2.1931571276101853
                 },
                 {
                     "id": "pendler",
                     "displayValue": 4.1931577353920675,
-                    "score": -1.235847291382511,
-                    "chartValue": 0.05760156527801047
+                    "score": 1.7094058432845913
                 },
                 {
                     "id": "schule",
-                    "displayValue": 64.43832343493595,
-                    "score": -0.1610068572391042,
-                    "chartValue": 0.40607924517332905
+                    "displayValue": 27.9086724989877,
+                    "score": -1.6252394237282959
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 16.73745003244771,
-                    "score": 2.9594256229728013,
-                    "chartValue": 1.0
+                    "score": 2.1179674055903392
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 61.4,
-                    "score": 0.33766977020941735
+                    "score": -0.96477023023787
                 }
             ]
         },
         {
             "ags": 14729,
-            "label": "Leipzig",
+            "label": "Landkreis Leipzig",
             "data": [
                 {
                     "id": "preis",
                     "displayValue": 2026,
-                    "score": -1.2761553816888807
+                    "score": 0.06513161925298465
                 },
                 {
                     "id": "angebot",
                     "displayValue": 801.0,
-                    "score": -0.29793679718569027,
-                    "chartValue": 0.03621825023518344
+                    "score": -0.03988333977079686
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": -3.47784659361601,
-                    "score": -1.8275901622470538
+                    "score": -1.5482466795594172
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -29.9212598425197,
-                    "score": -0.6571120224168316
+                    "score": 0.37142225012014785
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 7840.0,
-                    "score": 0.24061878466047418
+                    "score": -0.517177855646933
                 },
                 {
                     "id": "zug",
                     "displayValue": 3060.0,
-                    "score": -0.10126036787207274
+                    "score": 0.013219793391422088
                 },
                 {
                     "id": "angebot",
                     "displayValue": 801.0,
-                    "score": -0.29793679718569027,
-                    "chartValue": 0.03621825023518344
+                    "score": -0.03988333977079686
                 },
                 {
                     "id": "pendler",
                     "displayValue": 2.032328197372152,
-                    "score": -1.3995296319132535,
-                    "chartValue": 0.01136775009136657
+                    "score": -0.5174961810436083
                 },
                 {
                     "id": "schule",
-                    "displayValue": 70.2686720756905,
-                    "score": 0.35842333379704466,
-                    "chartValue": 0.49602986435936736
+                    "displayValue": 37.083338112114,
+                    "score": 0.07161107097425712
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 0.5783022835031515,
-                    "score": -1.2783264556814413,
-                    "chartValue": 0.28422599289600187
+                    "score": -0.09092243832168408
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 71.5,
-                    "score": 2.6717236971400524
+                    "score": 1.6107837764764406
                 }
             ]
         },
@@ -347,62 +327,57 @@
                 {
                     "id": "preis",
                     "displayValue": 1687,
-                    "score": -1.526381075758337
+                    "score": -0.482296949179127
                 },
                 {
                     "id": "angebot",
                     "displayValue": 459.0,
-                    "score": -0.5097443512730937,
-                    "chartValue": 0.00940733772342427
+                    "score": -0.4775336777904507
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": -0.29550827423168,
-                    "score": -0.8333929100266697
+                    "score": -0.27191697637614504
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -27.373417721519,
-                    "score": -0.28650302329899563
+                    "score": 1.093131975623104
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 19630.0,
-                    "score": 2.7751585686366593
+                    "score": 1.95646389610858
                 },
                 {
                     "id": "zug",
                     "displayValue": 4800.0,
-                    "score": 1.2664481625644148
+                    "score": 1.5467158267963843
                 },
                 {
                     "id": "angebot",
                     "displayValue": 459.0,
-                    "score": -0.5097443512730937,
-                    "chartValue": 0.00940733772342427
+                    "score": -0.4775336777904507
                 },
                 {
                     "id": "pendler",
                     "displayValue": 1.7805368077862391,
-                    "score": -1.418602771764293,
-                    "chartValue": 0.005980339207317438
+                    "score": -0.7769866893467728
                 },
                 {
                     "id": "schule",
-                    "displayValue": 61.55416766754744,
-                    "score": -0.4179584862996166,
-                    "chartValue": 0.36158248981771707
+                    "displayValue": 43.0671848083009,
+                    "score": 1.1783209669863772
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 1.0819165378670892,
-                    "score": -1.1462531318633533,
-                    "chartValue": 0.30653372833361564
+                    "score": -0.022080415895935356
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 63.7,
-                    "score": 0.8691870010946123
+                    "score": -0.3782579316791646
                 }
             ]
         },
@@ -413,62 +388,57 @@
                 {
                     "id": "preis",
                     "displayValue": 1536,
-                    "score": -1.6378385383084488
+                    "score": -0.7261368129940203
                 },
                 {
                     "id": "angebot",
                     "displayValue": 495.0,
-                    "score": -0.4874488192638934,
-                    "chartValue": 0.012229539040451553
+                    "score": -0.4314652211568029
                 },
                 {
                     "id": "preis_entwicklung",
                     "displayValue": 2.74247491638795,
-                    "score": 0.11570622315100039
+                    "score": 0.9465167018851516
                 },
                 {
                     "id": "angebot_entwicklung",
                     "displayValue": -29.386590584878704,
-                    "score": -0.5793390565018249
+                    "score": 0.5228743357836797
                 },
                 {
                     "id": "autobahn",
                     "displayValue": 6290.0,
-                    "score": -0.09259043206243396
+                    "score": -0.8423809697454101
                 },
                 {
                     "id": "zug",
                     "displayValue": 3220.0,
-                    "score": 0.024505933777259455
+                    "score": 0.15423092289992435
                 },
                 {
                     "id": "angebot",
                     "displayValue": 495.0,
-                    "score": -0.4874488192638934,
-                    "chartValue": 0.012229539040451553
+                    "score": -0.4314652211568029
                 },
                 {
                     "id": "pendler",
                     "displayValue": 2.213300391187976,
-                    "score": -1.3858210298539253,
-                    "chartValue": 0.0152398903113996
+                    "score": -0.33099033332881306
                 },
                 {
                     "id": "schule",
-                    "displayValue": 59.15714634609644,
-                    "score": -0.6315109373856084,
-                    "chartValue": 0.32460124472381324
+                    "displayValue": 37.9908279286857,
+                    "score": 0.23945092575698593
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -3.456349059545394,
-                    "score": -2.3364176608172973,
-                    "chartValue": 0.105509973712997
+                    "score": -0.642442884439768
                 },
                 {
                     "id": "gesundheit",
                     "displayValue": 61.1,
-                    "score": 0.2683414357461318
+                    "score": -1.0412718343977003
                 }
             ]
         }

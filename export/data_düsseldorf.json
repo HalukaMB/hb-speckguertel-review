@@ -1,0 +1,1178 @@
+{
+    "city": "Düsseldorf",
+    "cityAGS": 3534,
+    "map": {
+        "maxBounds": [
+            {
+                "lng": -11.22772120373213,
+                "lat": 41.86194994247012
+            },
+            {
+                "lng": 32.10471472187302,
+                "lat": 59.395561144137304
+            }
+        ],
+        "zoom": 7.5,
+        "center": [
+            6.76294293,
+            51.2465926
+        ]
+    },
+    "statistics": [
+        {
+            "id": "preis",
+            "means": 3017.9444444444443,
+            "sd": 740.0852472537298
+        },
+        {
+            "id": "angebot",
+            "means": 1177.111111111111,
+            "sd": 772.9411277245536
+        },
+        {
+            "id": "preis_entwicklung",
+            "means": 4.052868664014636,
+            "sd": 3.1783102856972953
+        },
+        {
+            "id": "angebot_entwicklung",
+            "means": -23.520345514900654,
+            "sd": 6.309515420800153
+        },
+        {
+            "id": "autobahn",
+            "means": 3282.222222222222,
+            "sd": 1016.1146042100216
+        },
+        {
+            "id": "zug",
+            "means": 2938.8888888888887,
+            "sd": 931.8664944071618
+        },
+        {
+            "id": "supermarkt",
+            "means": 1018.3333333333334,
+            "sd": 247.43983225874385
+        },
+        {
+            "id": "pendler",
+            "means": 15.657977123488074,
+            "sd": 10.303905356223002
+        },
+        {
+            "id": "schule",
+            "means": 25.54904556964743,
+            "sd": 2.304711856816295
+        },
+        {
+            "id": "einwohner",
+            "means": 3.1864785505920503,
+            "sd": 1.9265732205138706
+        },
+        {
+            "id": "gesundheit",
+            "means": 59.76111111111111,
+            "sd": 3.442833800107609
+        }
+    ],
+    "kreise": [
+        {
+            "ags": 5112,
+            "label": "Duisburg",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2337,
+                    "score": -0.9467639779299929
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1162.0,
+                    "score": -0.020116933224520968
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 2.54497586660816,
+                    "score": -0.4881867244973321
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -22.0657276995305,
+                    "score": 0.23722731204048558
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 1980.0,
+                    "score": -1.3187248823721347
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2830.0,
+                    "score": -0.12023797718404634
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1162.0,
+                    "score": -0.020116933224520968
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 12.704904658827624,
+                    "score": -0.2949062896079697
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 24.6174859590992,
+                    "score": -0.4159161711580393
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 3.362461381713011,
+                    "score": 0.09399322971561223
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 53.6,
+                    "score": -1.8414281370683427
+                }
+            ]
+        },
+        {
+            "ags": 5111,
+            "label": "Düsseldorf",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 4818,
+                    "score": 2.5027412620469693
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 2537.0,
+                    "score": 1.8103760715802393
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 1.68847615027439,
+                    "score": -0.7654821607306302
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -20.0944881889764,
+                    "score": 0.558708216189699
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3300.0,
+                    "score": 0.018003070066513836
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 1930.0,
+                    "score": -1.1140416661542272
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 2537.0,
+                    "score": 1.8103760715802393
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 7.146404928350619,
+                    "score": -0.8500015508718535
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 25.0310115221865,
+                    "score": -0.23128819144772983
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 3.8129840554370857,
+                    "score": 0.3346194367933494
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 62.6,
+                    "score": 0.8484849215887493
+                }
+            ]
+        },
+        {
+            "ags": 5113,
+            "label": "Essen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2765,
+                    "score": -0.3516860888892271
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1497.0,
+                    "score": 0.4258577261279115
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 5.53435114503817,
+                    "score": 0.47963627192530384
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -16.925638179800202,
+                    "score": 1.0755022235180383
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 2360.0,
+                    "score": -0.9339092597004025
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 1940.0,
+                    "score": -1.1029994029434473
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1497.0,
+                    "score": 0.4258577261279115
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 8.341937193344725,
+                    "score": -0.7306106491600789
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 25.7412104846848,
+                    "score": 0.08579643727384956
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 1.2736786025522973,
+                    "score": -1.0216351434449524
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 58.3,
+                    "score": -0.4366957619918626
+                }
+            ]
+        },
+        {
+            "ags": 5114,
+            "label": "Krefeld",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2881,
+                    "score": -0.19040329653238403
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 793.0,
+                    "score": -0.5113546923321257
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 3.7824207492795496,
+                    "score": -0.08755866588708507
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -20.5410821643287,
+                    "score": 0.4858751412563073
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3780.0,
+                    "score": 0.504085961862386
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2760.0,
+                    "score": -0.19753381965950484
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 793.0,
+                    "score": -0.5113546923321257
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 14.10676124221343,
+                    "score": -0.154910969981992
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 25.8149201487639,
+                    "score": 0.1187058087343433
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 3.768477565690498,
+                    "score": 0.31084831839537796
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 66.2,
+                    "score": 1.9244501450515865
+                }
+            ]
+        },
+        {
+            "ags": 5158,
+            "label": "Mettmann",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3199,
+                    "score": 0.2517340135493064
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1701.0,
+                    "score": 0.697436324658945
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.34504391468004,
+                    "score": -1.2004240768979904
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -24.2653606411398,
+                    "score": -0.12150128642707511
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 2790.0,
+                    "score": -0.4984600024666003
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3210.0,
+                    "score": 0.29936802482558555
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1701.0,
+                    "score": 0.697436324658945
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 27.464443354585583,
+                    "score": 1.1790435863872721
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 27.9448690568708,
+                    "score": 1.0696703896275839
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 2.589668556777691,
+                    "score": -0.3187589294242507
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 61.4,
+                    "score": 0.4898298471011362
+                }
+            ]
+        },
+        {
+            "ags": 5166,
+            "label": "Viersen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2794,
+                    "score": -0.3113653908000163
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 883.0,
+                    "score": -0.39154060474490504
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 2.41935483870968,
+                    "score": -0.5288570680676616
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -26.046901172529303,
+                    "score": -0.41204500663110927
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3510.0,
+                    "score": 0.23066433522720792
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 4200.0,
+                    "score": 1.3925520826927844
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 883.0,
+                    "score": -0.39154060474490504
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 11.651512308295944,
+                    "score": -0.40010249908616663
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 24.431715007346,
+                    "score": -0.49885787675657217
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 0.6958923397687666,
+                    "score": -1.3302334116874335
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 60.2,
+                    "score": 0.1311747726135252
+                }
+            ]
+        },
+        {
+            "ags": 5170,
+            "label": "Wesel",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2687,
+                    "score": -0.4601348630602078
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1112.0,
+                    "score": -0.08668031521742134
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 4.02632597754549,
+                    "score": -0.008593307952010397
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -23.3103448275862,
+                    "score": 0.034248101495708366
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 4640.0,
+                    "score": 1.3749844763299903
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 4000.0,
+                    "score": 1.1717068184771886
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1112.0,
+                    "score": -0.08668031521742134
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 5.980558971680789,
+                    "score": -0.9664278524443366
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 25.4539465381563,
+                    "score": -0.042459145513352115
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": -0.1710561627128126,
+                    "score": -1.7932745460202895
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 55.6,
+                    "score": -1.243669679588989
+                }
+            ]
+        },
+        {
+            "ags": 5315,
+            "label": "Köln",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 4755,
+                    "score": 2.415148021370408
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 3244.0,
+                    "score": 2.75158229295985
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 8.191126279863491,
+                    "score": 1.3397785532778845
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -27.101123595505598,
+                    "score": -0.5839735703080459
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 2590.0,
+                    "score": -0.7009945407148804
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2400.0,
+                    "score": -0.5950552952475772
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 3244.0,
+                    "score": 2.75158229295985
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 5.9712040362655605,
+                    "score": -0.9673620758085927
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 25.4747078455662,
+                    "score": -0.033189783264939675
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 0.0034167241815152,
+                    "score": -1.7000877843768614
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 61.5,
+                    "score": 0.5197177699751043
+                }
+            ]
+        },
+        {
+            "ags": 5316,
+            "label": "Leverkusen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3217,
+                    "score": 0.27676065374260966
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 415.0,
+                    "score": -1.0145738601984526
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 1.32283464566929,
+                    "score": -0.8838601573497905
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -29.898648648648702,
+                    "score": -1.040209800684598
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3370.0,
+                    "score": 0.08889015845341186
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2840.0,
+                    "score": -0.10919571397326655
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 415.0,
+                    "score": -1.0145738601984526
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 28.123350674809625,
+                    "score": 1.2448448544997854
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 24.0364392418907,
+                    "score": -0.6753378154080336
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.954791591110896,
+                    "score": 0.9444640296322855
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 65.8,
+                    "score": 1.804898453555714
+                }
+            ]
+        },
+        {
+            "ags": 5116,
+            "label": "Mönchengladbach",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2456,
+                    "score": -0.781310078874266
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 860.0,
+                    "score": -0.4221597604616392
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 10.8303249097473,
+                    "score": 2.1942303661898266
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -32.069510268562404,
+                    "score": -1.3942462090541274
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3020.0,
+                    "score": -0.26554528348107825
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2450.0,
+                    "score": -0.5398439791936782
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 860.0,
+                    "score": -0.4221597604616392
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 11.672044961894208,
+                    "score": -0.3980520215713298
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 26.0278200213428,
+                    "score": 0.21375984375303603
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.931650770129403,
+                    "score": 0.9321044120010273
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 61.5,
+                    "score": 0.5197177699751043
+                }
+            ]
+        },
+        {
+            "ags": 5117,
+            "label": "Mülheim an der Ruhr",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2718,
+                    "score": -0.4170334271717411
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 430.0,
+                    "score": -0.9946048456005824
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.73046018991964,
+                    "score": -1.548623117911394
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -27.609427609427602,
+                    "score": -0.6668706678466332
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 2600.0,
+                    "score": -0.6908678138024664
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3320.0,
+                    "score": 0.4208329201441632
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 430.0,
+                    "score": -0.9946048456005824
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 11.446198171113616,
+                    "score": -0.4206060360379643
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 21.3558050272719,
+                    "score": -1.8721684918296433
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 3.74008424640273,
+                    "score": 0.29568331755294064
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 57.1,
+                    "score": -0.7953508364794736
+                }
+            ]
+        },
+        {
+            "ags": 5119,
+            "label": "Oberhausen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2295,
+                    "score": -1.005159471714367
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 429.0,
+                    "score": -0.9959361132404404
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 5.56577736890525,
+                    "score": 0.48981064593874646
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -22.5631768953069,
+                    "score": 0.1561004797249421
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 1800.0,
+                    "score": -1.5010059667955866
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2110.0,
+                    "score": -0.9152809283601909
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 429.0,
+                    "score": -0.9959361132404404
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 7.46706831410191,
+                    "score": -0.8179787507419164
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 20.8433010104263,
+                    "score": -2.10098767417278
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 1.669007880764739,
+                    "score": -0.8104879796924346
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 53.8,
+                    "score": -1.7816522913204085
+                }
+            ]
+        },
+        {
+            "ags": 5120,
+            "label": "Remscheid",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2297,
+                    "score": -1.0023787339151111
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 353.0,
+                    "score": -1.097112453869649
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 5.95018450184501,
+                    "score": 0.6142640947688257
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -21.2053571428571,
+                    "score": 0.3775414154164768
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3650.0,
+                    "score": 0.372438512001004
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2100.0,
+                    "score": -0.9263231915709708
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 353.0,
+                    "score": -1.097112453869649
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 6.041609884618879,
+                    "score": -0.9603310504094359
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 27.4409135168628,
+                    "score": 0.8446678709904176
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.306276977101464,
+                    "score": 0.5980894276313528
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 61.3,
+                    "score": 0.45994192422716806
+                }
+            ]
+        },
+        {
+            "ags": 5362,
+            "label": "Rhein-Erft-Kreis",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3225,
+                    "score": 0.28788360493963333
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1635.0,
+                    "score": 0.6095726604283166
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 1.06549670949545,
+                    "score": -0.9671744117620988
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -26.8783542039356,
+                    "score": -0.5476430762025568
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3440.0,
+                    "score": 0.1597772468403099
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3710.0,
+                    "score": 0.8514811853645748
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1635.0,
+                    "score": 0.6095726604283166
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 37.36939906934839,
+                    "score": 2.1681943009491724
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 27.8592649727956,
+                    "score": 1.0314504813351937
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.75382152720365,
+                    "score": 0.8371250053509266
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 60.3,
+                    "score": 0.16106269548749116
+                }
+            ]
+        },
+        {
+            "ags": 5162,
+            "label": "Rhein-Kreis Neuss",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3431,
+                    "score": 0.5742995982629926
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1645.0,
+                    "score": 0.6228853368268966
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 4.4762484774665,
+                    "score": 0.13707102036885765
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -22.0009483167378,
+                    "score": 0.2477919006858148
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 3170.0,
+                    "score": -0.11364437979486822
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2690.0,
+                    "score": -0.27482966213496335
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1645.0,
+                    "score": 0.6228853368268966
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 30.679647278496724,
+                    "score": 1.5001274307157058
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 26.159634811498,
+                    "score": 0.27261158249586
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.137514941089426,
+                    "score": 0.5079528573925725
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 60.2,
+                    "score": 0.1311747726135252
+                }
+            ]
+        },
+        {
+            "ags": 5378,
+            "label": "Rheinisch-Bergischer Kreis",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3349,
+                    "score": 0.46028934849350006
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 904.0,
+                    "score": -0.3635839843078869
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 6.6560509554140195,
+                    "score": 0.8427913697137646
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -33.4315169366716,
+                    "score": -1.6163699706653805
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 4570.0,
+                    "score": 1.3040973879430924
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 5520.0,
+                    "score": 2.8501308265157164
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 904.0,
+                    "score": -0.3635839843078869
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 31.3515240817341,
+                    "score": 1.56722388618287
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 29.988353360439,
+                    "score": 1.9820308631151087
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 2.018007388568943,
+                    "score": -0.6240857568237231
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 59.3,
+                    "score": -0.1378165332521857
+                }
+            ]
+        },
+        {
+            "ags": 5122,
+            "label": "Solingen",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2730,
+                    "score": -0.4003490003762056
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 525.0,
+                    "score": -0.8681344198140717
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.8124076809453399,
+                    "score": -1.0491130642091426
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -5.063291139240509,
+                    "score": 3.01008096522504
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 5940.0,
+                    "score": 2.691458974943811
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2570.0,
+                    "score": -0.4073368206643208
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 525.0,
+                    "score": -0.8681344198140717
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 14.227830874392996,
+                    "score": -0.14282044513454883
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 23.5228574081525,
+                    "score": -0.9046382138430921
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 6.929099384480675,
+                    "score": 1.998950792741452
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 58.1,
+                    "score": -0.4964716077397967
+                }
+            ]
+        },
+        {
+            "ags": 5124,
+            "label": "Wuppertal",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2369,
+                    "score": -0.9022721731418982
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1063.0,
+                    "score": -0.15191242957046372
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 8.47069597069596,
+                    "score": 1.430290433081926
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -22.2953216374269,
+                    "score": 0.1997838322670076
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 2570.0,
+                    "score": -0.7212479945397084
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2320.0,
+                    "score": -0.6833934009338154
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 1063.0,
+                    "score": -0.15191242957046372
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 10.097188218710588,
+                    "score": -0.5553238678786213
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 28.1385643203004,
+                    "score": 1.156150086068777
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 4.580836140396927,
+                    "score": 0.7447327242630486
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 58.9,
+                    "score": -0.25736822474805604
+                }
+            ]
+        }
+    ]
+}

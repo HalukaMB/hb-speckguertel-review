@@ -1,0 +1,690 @@
+{
+    "city": "Berlin",
+    "cityAGS": 3534,
+    "map": {
+        "maxBounds": [
+            {
+                "lng": -11.22772120373213,
+                "lat": 41.86194994247012
+            },
+            {
+                "lng": 32.10471472187302,
+                "lat": 59.395561144137304
+            }
+        ],
+        "zoom": 7,
+        "center": [
+            13.4576328,
+            52.4142569
+        ]
+    },
+    "statistics": [
+        {
+            "id": "preis",
+            "means": 3782.9,
+            "sd": 914.164153749205
+        },
+        {
+            "id": "angebot",
+            "means": 1784.8,
+            "sd": 3974.8280689581757
+        },
+        {
+            "id": "preis_entwicklung",
+            "means": 0.07802349379483405,
+            "sd": 3.7588985351898807
+        },
+        {
+            "id": "angebot_entwicklung",
+            "means": -31.884925059212502,
+            "sd": 5.629549767186513
+        },
+        {
+            "id": "autobahn",
+            "means": 10155.0,
+            "sd": 4542.71639244871
+        },
+        {
+            "id": "zug",
+            "means": 3262.0,
+            "sd": 846.9002302514742
+        },
+        {
+            "id": "supermarkt",
+            "means": 2718.0,
+            "sd": 1127.4927937685457
+        },
+        {
+            "id": "pendler",
+            "means": 30.446722423004893,
+            "sd": 11.685376951370998
+        },
+        {
+            "id": "schule",
+            "means": 51.87874681122607,
+            "sd": 6.958178858259852
+        },
+        {
+            "id": "einwohner",
+            "means": 9.099032039939525,
+            "sd": 3.7000771192785447
+        },
+        {
+            "id": "gesundheit",
+            "means": 58.92999999999999,
+            "sd": 3.3915090053445724
+        }
+    ],
+    "kreise": [
+        {
+            "ags": 12060,
+            "label": "Barnim",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3317,
+                    "score": -0.5372139331979101
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 535.0,
+                    "score": -0.33143694528942125
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -2.8696925329429,
+                    "score": -0.8266159578936474
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -25.694444444444397,
+                    "score": 1.159122805159966
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 6810.0,
+                    "score": -0.7761742725011097
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2960.0,
+                    "score": -0.37588365164228593
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 535.0,
+                    "score": -0.33143694528942125
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 41.13460730518034,
+                    "score": 0.9641126608639805
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 52.8360528360528,
+                    "score": 0.14502201978997123
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 11.307038968087625,
+                    "score": 0.629025716428057
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 53.4,
+                    "score": -1.7187428401510243
+                }
+            ]
+        },
+        {
+            "ags": 11000,
+            "label": "Berlin",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 5527,
+                    "score": 2.0110642217009547
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 13095.0,
+                    "score": 2.9993744107956575
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 0.85766423357664,
+                    "score": 0.21863146622060584
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -25.996044080248698,
+                    "score": 1.1026504506460506
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 4470.0,
+                    "score": -1.3191482030400026
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 1840.0,
+                    "score": -1.7698892471368564
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 13095.0,
+                    "score": 2.9993744107956575
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 2.9729445401024583,
+                    "score": -2.478302993592838
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 34.5565889923383,
+                    "score": -2.624128804026314
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 8.507855187006964,
+                    "score": -0.16841679195430756
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 63.1,
+                    "score": 1.296050206768498
+                }
+            ]
+        },
+        {
+            "ags": 12061,
+            "label": "Dahme-Spreewald",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3540,
+                    "score": -0.2800799836311921
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 502.0,
+                    "score": -0.3401882808587531
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.1410437235543,
+                    "score": -0.06143212442093963
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -29.0960451977401,
+                    "score": 0.5221976207424281
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 7020.0,
+                    "score": -0.7274458428373629
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 4420.0,
+                    "score": 1.4413022139131362
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 502.0,
+                    "score": -0.3401882808587531
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 35.17756357835186,
+                    "score": 0.4267508402914251
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 52.1521066122213,
+                    "score": 0.041411199179372415
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 10.821263270830991,
+                    "score": 0.4906360211355352
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 57.6,
+                    "score": -0.41336853117556055
+                }
+            ]
+        },
+        {
+            "ags": 12063,
+            "label": "Havelland",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3589,
+                    "score": -0.22357969874881906
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 475.0,
+                    "score": -0.3473484645063882
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -3.0,
+                    "score": -0.8631575483063805
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -39.3358876117497,
+                    "score": -1.3951389484097916
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 17630.0,
+                    "score": 1.73450005588813
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3680.0,
+                    "score": 0.5202628026042235
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 475.0,
+                    "score": -0.3473484645063882
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 37.11806002373497,
+                    "score": 0.601795501791803
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 47.4917329205656,
+                    "score": -0.6645874973840215
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 10.716009759025136,
+                    "score": 0.46065098584138575
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 57.9,
+                    "score": -0.3201275091058855
+                }
+            ]
+        },
+        {
+            "ags": 12064,
+            "label": "Märkisch-Oderland",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3021,
+                    "score": -0.8785217765689798
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 496.0,
+                    "score": -0.34177943278044975
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -5.08953817153629,
+                    "score": -1.449118197687987
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -36.8956743002545,
+                    "score": -0.9382266220774425
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 15110.0,
+                    "score": 1.1497588999231685
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3610.0,
+                    "score": 0.43313745288581296
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 496.0,
+                    "score": -0.34177943278044975
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 36.88715757094411,
+                    "score": 0.5809666866787699
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 58.674065565782,
+                    "score": 1.02942092219752
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 5.809816771432397,
+                    "score": -0.9370446099524304
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 59.3,
+                    "score": 0.11499726055260172
+                }
+            ]
+        },
+        {
+            "ags": 12065,
+            "label": "Oberhavel",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3576,
+                    "score": -0.23856957024822414
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 662.0,
+                    "score": -0.29775756294684125
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -0.91438071487947,
+                    "score": -0.27829585622563247
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -31.540847983454,
+                    "score": 0.06442594849469101
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 10450.0,
+                    "score": 0.06845184167050145
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2610.0,
+                    "score": -0.8115104002343392
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 662.0,
+                    "score": -0.29775756294684125
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 42.701169956238274,
+                    "score": 1.1054262044295975
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 53.0031299262068,
+                    "score": 0.1703324810702605
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 7.4831076067708,
+                    "score": -0.46035092159791496
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 61.2,
+                    "score": 0.705523733660551
+                }
+            ]
+        },
+        {
+            "ags": 12067,
+            "label": "Oder-Spree",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 2936,
+                    "score": -0.9765324748343207
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 423.0,
+                    "score": -0.3611384478277595
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 3.4531360112755505,
+                    "score": 0.9464690089987385
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -40.921787709497195,
+                    "score": -1.6920872928758381
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 11630.0,
+                    "score": 0.3422592083525073
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3420.0,
+                    "score": 0.19665436079298404
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 423.0,
+                    "score": -0.3611384478277595
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 20.905923344947738,
+                    "score": -0.8606384974500234
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 58.4827284652383,
+                    "score": 1.0004353187833699
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 1.9497647517325856,
+                    "score": -2.0367114435061255
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 57.6,
+                    "score": -0.41336853117556055
+                }
+            ]
+        },
+        {
+            "ags": 12054,
+            "label": "Potsdam",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 5324,
+                    "score": 1.7769916129025523
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 499.0,
+                    "score": -0.3409838568196014
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 7.72966410360179,
+                    "score": 2.1457183035142675
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -26.1834319526627,
+                    "score": 1.0675634243160903
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 6780.0,
+                    "score": -0.7831354767387878
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 2310.0,
+                    "score": -1.1849047561703847
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 499.0,
+                    "score": -0.3409838568196014
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 29.424877396344183,
+                    "score": -0.09217667840785695
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 55.5796044228539,
+                    "score": 0.5606418761341228
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 15.574202287778435,
+                    "score": 1.8446720217298678
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 64.1,
+                    "score": 1.6068536136674156
+                }
+            ]
+        },
+        {
+            "ags": 12069,
+            "label": "Potsdam-Mittelmark",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3880,
+                    "score": 0.11196280943017174
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 679.0,
+                    "score": -0.29324929916870063
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": 2.67266472611802,
+                    "score": 0.7276046363329048
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -33.756097560975604,
+                    "score": -0.3503635426961248
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 6500.0,
+                    "score": -0.8481067162904502
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 4420.0,
+                    "score": 1.4413022139131362
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 679.0,
+                    "score": -0.29324929916870063
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 27.41317485673432,
+                    "score": -0.27364456561954253
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 55.0259248157973,
+                    "score": 0.4767651085702726
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 7.715717165391323,
+                    "score": -0.3940841937203863
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 60.3,
+                    "score": 0.42580066745152145
+                }
+            ]
+        },
+        {
+            "ags": 12072,
+            "label": "Teltow-Fläming",
+            "data": [
+                {
+                    "id": "preis",
+                    "displayValue": 3119,
+                    "score": -0.7655212068042337
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 482.0,
+                    "score": -0.34549212059774204
+                },
+                {
+                    "id": "preis_entwicklung",
+                    "displayValue": -1.9182389937107,
+                    "score": -0.5598037305319302
+                },
+                {
+                    "id": "angebot_entwicklung",
+                    "displayValue": -29.4289897510981,
+                    "score": 0.4598561566999768
+                },
+                {
+                    "id": "autobahn",
+                    "displayValue": 15150.0,
+                    "score": 1.1590405055734059
+                },
+                {
+                    "id": "zug",
+                    "displayValue": 3350.0,
+                    "score": 0.10952901107457338
+                },
+                {
+                    "id": "angebot",
+                    "displayValue": 482.0,
+                    "score": -0.34549212059774204
+                },
+                {
+                    "id": "pendler",
+                    "displayValue": 30.73174565747072,
+                    "score": 0.02571084101468876
+                },
+                {
+                    "id": "schule",
+                    "displayValue": 50.9855335552044,
+                    "score": -0.1353126243145558
+                },
+                {
+                    "id": "einwohner",
+                    "displayValue": 11.105544631338994,
+                    "score": 0.5716232155963193
+                },
+                {
+                    "id": "gesundheit",
+                    "displayValue": 54.8,
+                    "score": -1.2836180704925373
+                }
+            ]
+        }
+    ]
+}
