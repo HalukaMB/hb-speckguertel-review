@@ -22,57 +22,185 @@
         {
             "id": "preis",
             "means": 1985.6666666666667,
-            "sd": 678.364110685896
+            "sd": 619.2588760409943
         },
         {
             "id": "angebot",
             "means": 832.1666666666666,
-            "sd": 856.0309379144346
+            "sd": 781.4457576967337
         },
         {
             "id": "preis_entwicklung",
             "means": 0.38247627118375666,
-            "sd": 2.7313294970611355
+            "sd": 2.49335129586604
         },
         {
             "id": "angebot_entwicklung",
             "means": -31.23248680828281,
-            "sd": 3.867235131579707
+            "sd": 3.5302865279044413
         },
         {
             "id": "autobahn",
             "means": 10305.0,
-            "sd": 5221.1674939614795
+            "sd": 4766.252021592368
         },
         {
             "id": "zug",
             "means": 3045.0,
-            "sd": 1242.960176353209
+            "sd": 1134.6622111154197
         },
         {
             "id": "supermarkt",
             "means": 2463.3333333333335,
-            "sd": 1390.3764478250725
+            "sd": 1269.2342398294948
         },
         {
             "id": "pendler",
             "means": 2.5344701962545995,
-            "sd": 1.06294310927668
+            "sd": 0.9703298638258606
         },
         {
             "id": "schule",
             "means": 36.696145703332085,
-            "sd": 5.922939386309483
+            "sd": 5.406879181029181
         },
         {
             "id": "einwohner",
             "means": 1.2434459612577353,
-            "sd": 8.013735729329808
+            "sd": 7.315506381398417
         },
         {
             "id": "gesundheit",
             "means": 65.18333333333334,
-            "sd": 4.295773116293117
+            "sd": 3.921486396196672
+        }
+    ],
+    "barchart": [
+        {
+            "id": "preis",
+            "unit": "euro",
+            "min": 0,
+            "max": 3114,
+            "labels": [
+                "sliderInput"
+            ],
+            "barStartingPoint": "min"
+        },
+        {
+            "id": "angebot",
+            "unit": "count",
+            "min": 0,
+            "max": 2546,
+            "median": 477,
+            "labels": [
+                "median"
+            ],
+            "barStartingPoint": "min"
+        },
+        {
+            "id": "preis_entwicklung",
+            "unit": "growth",
+            "min": -3.47784659361601,
+            "max": 4.18200066912011,
+            "labels": [
+                "0",
+                "max"
+            ],
+            "barStartingPoint": 0
+        },
+        {
+            "id": "angebot_entwicklung",
+            "unit": "growth",
+            "min": -38.6086956521739,
+            "max": -27.373417721519,
+            "labels": [
+                "min"
+            ],
+            "barStartingPoint": "max"
+        },
+        {
+            "id": "autobahn",
+            "unit": "distance",
+            "min": 0,
+            "minVal": 6290,
+            "max": 19630,
+            "labels": [
+                "min"
+            ],
+            "barStartingPoint": 0
+        },
+        {
+            "id": "zug",
+            "unit": "distance",
+            "min": 0,
+            "minVal": 1440,
+            "max": 4800,
+            "labels": [
+                "min"
+            ],
+            "barStartingPoint": 0
+        },
+        {
+            "id": "supermarkt",
+            "unit": "distance",
+            "min": 0,
+            "minVal": 640,
+            "max": 3880,
+            "labels": [
+                "min"
+            ],
+            "barStartingPoint": 0
+        },
+        {
+            "id": "pendler",
+            "unit": "growth",
+            "min": 0,
+            "max": 4.19315773539207,
+            "median": 2.122814294,
+            "labels": [
+                "median"
+            ],
+            "barStartingPoint": "min"
+        },
+        {
+            "id": "schule",
+            "unit": "count",
+            "min": 0,
+            "max": 70.2686720756905,
+            "median": 62.358175625,
+            "labels": [
+                "median"
+            ],
+            "barStartingPoint": "min"
+        },
+        {
+            "id": "einwohner",
+            "unit": "growth",
+            "min": -16.7374500324477,
+            "max": 16.7374500324477,
+            "labels": [
+                "-",
+                "0",
+                "+"
+            ],
+            "barStartingPoint": 0
+        },
+        {
+            "id": "gesundheit",
+            "unit": "count",
+            "min": 0,
+            "max": 71.5,
+            "labels": [
+                "max"
+            ],
+            "barStartingPoint": "min"
+        }
+    ],
+    "slider": [
+        {
+            "id": "preis",
+            "min": 1200,
+            "max": 3200
         }
     ],
     "kreise": [
@@ -88,7 +216,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 353.0,
-                    "score": -0.6131796889895247
+                    "score": -0.6131796889895247,
+                    "chartValue": 0.0010975227343994983
                 },
                 {
                     "id": "preis_entwicklung",
@@ -111,24 +240,27 @@
                     "score": 0.7270886365282149
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 353.0,
-                    "score": -0.6131796889895247
+                    "id": "supermarkt",
+                    "displayValue": 3450.0,
+                    "score": 0.7773716117201601
                 },
                 {
                     "id": "pendler",
                     "displayValue": 1.5010337307768558,
-                    "score": -1.0650362356189507
+                    "score": -1.0650362356189507,
+                    "chartValue": 0.0
                 },
                 {
                     "id": "schule",
                     "displayValue": 42.331267567476,
-                    "score": 1.0422133869599959
+                    "score": 1.0422133869599959,
+                    "chartValue": 0.5680024395385276
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -5.838317721852315,
-                    "score": -0.9680483228225022
+                    "score": -0.9680483228225022,
+                    "chartValue": 0.0
                 },
                 {
                     "id": "gesundheit",
@@ -149,7 +281,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 339.0,
-                    "score": -0.6310951999026099
+                    "score": -0.6310951999026099,
+                    "chartValue": 0.0
                 },
                 {
                     "id": "preis_entwicklung",
@@ -172,24 +305,27 @@
                     "score": -1.0267372867337823
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 339.0,
-                    "score": -0.6310951999026099
+                    "id": "supermarkt",
+                    "displayValue": 810.0,
+                    "score": -1.3026227007202686
                 },
                 {
                     "id": "pendler",
                     "displayValue": 3.486464315012306,
-                    "score": 0.9811035960535531
+                    "score": 0.9811035960535531,
+                    "chartValue": 0.04248092183225523
                 },
                 {
                     "id": "schule",
                     "displayValue": 31.7955833044282,
-                    "score": -0.9063569269493241
+                    "score": -0.9063569269493241,
+                    "chartValue": 0.2895072944660165
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -1.6423263048738312,
-                    "score": -0.3944733441104495
+                    "score": -0.3944733441104495,
+                    "chartValue": 0.18586262326246997
                 },
                 {
                     "id": "gesundheit",
@@ -210,7 +346,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 2546.0,
-                    "score": 2.1931571276101853
+                    "score": 2.1931571276101853,
+                    "chartValue": 0.17301661962997805
                 },
                 {
                     "id": "preis_entwicklung",
@@ -233,24 +370,27 @@
                     "score": -1.4145178928821633
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 2546.0,
-                    "score": 2.1931571276101853
+                    "id": "supermarkt",
+                    "displayValue": 640.0,
+                    "score": -1.436561728415296
                 },
                 {
                     "id": "pendler",
                     "displayValue": 4.1931577353920675,
-                    "score": 1.7094058432845913
+                    "score": 1.7094058432845913,
+                    "chartValue": 0.05760156527801047
                 },
                 {
                     "id": "schule",
                     "displayValue": 27.9086724989877,
-                    "score": -1.6252394237282959
+                    "score": -1.6252394237282959,
+                    "chartValue": 0.18676258784627592
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 16.73745003244771,
-                    "score": 2.1179674055903392
+                    "score": 2.1179674055903392,
+                    "chartValue": 1.0
                 },
                 {
                     "id": "gesundheit",
@@ -271,7 +411,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 801.0,
-                    "score": -0.03988333977079686
+                    "score": -0.03988333977079686,
+                    "chartValue": 0.03621825023518344
                 },
                 {
                     "id": "preis_entwicklung",
@@ -294,24 +435,27 @@
                     "score": 0.013219793391422088
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 801.0,
-                    "score": -0.03988333977079686
+                    "id": "supermarkt",
+                    "displayValue": 3160.0,
+                    "score": 0.5488873880051129
                 },
                 {
                     "id": "pendler",
                     "displayValue": 2.032328197372152,
-                    "score": -0.5174961810436083
+                    "score": -0.5174961810436083,
+                    "chartValue": 0.01136775009136657
                 },
                 {
                     "id": "schule",
                     "displayValue": 37.083338112114,
-                    "score": 0.07161107097425712
+                    "score": 0.07161107097425712,
+                    "chartValue": 0.4292812289829495
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 0.5783022835031515,
-                    "score": -0.09092243832168408
+                    "score": -0.09092243832168408,
+                    "chartValue": 0.28422599289600187
                 },
                 {
                     "id": "gesundheit",
@@ -332,7 +476,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 459.0,
-                    "score": -0.4775336777904507
+                    "score": -0.4775336777904507,
+                    "chartValue": 0.00940733772342427
                 },
                 {
                     "id": "preis_entwicklung",
@@ -355,24 +500,27 @@
                     "score": 1.5467158267963843
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 459.0,
-                    "score": -0.4775336777904507
+                    "id": "supermarkt",
+                    "displayValue": 2840.0,
+                    "score": 0.296766865285061
                 },
                 {
                     "id": "pendler",
                     "displayValue": 1.7805368077862391,
-                    "score": -0.7769866893467728
+                    "score": -0.7769866893467728,
+                    "chartValue": 0.005980339207317438
                 },
                 {
                     "id": "schule",
                     "displayValue": 43.0671848083009,
-                    "score": 1.1783209669863772
+                    "score": 1.1783209669863772,
+                    "chartValue": 0.5874553173609696
                 },
                 {
                     "id": "einwohner",
                     "displayValue": 1.0819165378670892,
-                    "score": -0.022080415895935356
+                    "score": -0.022080415895935356,
+                    "chartValue": 0.30653372833361564
                 },
                 {
                     "id": "gesundheit",
@@ -393,7 +541,8 @@
                 {
                     "id": "angebot",
                     "displayValue": 495.0,
-                    "score": -0.4314652211568029
+                    "score": -0.4314652211568029,
+                    "chartValue": 0.012229539040451553
                 },
                 {
                     "id": "preis_entwicklung",
@@ -416,24 +565,27 @@
                     "score": 0.15423092289992435
                 },
                 {
-                    "id": "angebot",
-                    "displayValue": 495.0,
-                    "score": -0.4314652211568029
+                    "id": "supermarkt",
+                    "displayValue": 3880.0,
+                    "score": 1.1161585641252298
                 },
                 {
                     "id": "pendler",
                     "displayValue": 2.213300391187976,
-                    "score": -0.33099033332881306
+                    "score": -0.33099033332881306,
+                    "chartValue": 0.0152398903113996
                 },
                 {
                     "id": "schule",
                     "displayValue": 37.9908279286857,
-                    "score": 0.23945092575698593
+                    "score": 0.23945092575698593,
+                    "chartValue": 0.4532693726865698
                 },
                 {
                     "id": "einwohner",
                     "displayValue": -3.456349059545394,
-                    "score": -0.642442884439768
+                    "score": -0.642442884439768,
+                    "chartValue": 0.105509973712997
                 },
                 {
                     "id": "gesundheit",
